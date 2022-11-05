@@ -1,0 +1,22 @@
+body{
+  background: black;
+}
+.box_1{
+  /* Picture part */
+  display: block;
+  margin-top: 7%;
+}
+.image_1{
+  /* Kodluyoruz's picutre */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.box_2{
+  /* Welcome part and date text part*/
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: #e98208;
+}
